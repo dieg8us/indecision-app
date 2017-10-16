@@ -1,2 +1,2 @@
-# indecition-app
+# indecision-app
 React App
